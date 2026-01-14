@@ -1,16 +1,21 @@
-## Hi there 👋
+![Banner](assets/banner.png)
 
-<!--
-**The-Shadow-of-Light/The-Shadow-of-Light** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm ⚫ The Shadow of Light ⚫
 
-Here are some ideas to get you started:
+👤 Author of Moonlight Castle and Void Bound
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+
+- I am an author ✍🏻
+
+### 📱 Socials
+
+- Patreon: https://www.patreon.com/c/The_AbyssWalker
+- Webnovel: https://www.webnovel.com/profile/4502427260
+- Royal Road: https://www.royalroad.com/profile/495130/fictions
+- YouTube: https://www.youtube.com/channel/UC2gsrWVzlvFkkXJUh8vgkJw
+- Instagram: https://www.instagram.com/the_shadow_of_light_official/
+
+### 📫 Contact
+
+- Email: TheShadowofLight@proton.me
