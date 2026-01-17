@@ -10,7 +10,7 @@
 
 ### 📱 Socials
 
-[![Patreon](https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/The_AbyssWalker)
+[![Patreon](https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/TheShadowofLight)
 [![Webnovel](https://img.shields.io/badge/Webnovel-00AEEF?style=for-the-badge)](https://www.webnovel.com/profile/4502427260)
 [![Royal Road](https://img.shields.io/badge/Royal%20Road-2E2E2E?style=for-the-badge)](https://www.royalroad.com/profile/495130/fictions)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2gsrWVzlvFkkXJUh8vgkJw)
